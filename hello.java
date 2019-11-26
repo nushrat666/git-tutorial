@@ -6,4 +6,7 @@ greeting("Tuli")
 public static void grretings(String name){
     system.out.println("welcome " + name);
 }
+public static int sqr(int x){
+    return x*x;
+}
 }
